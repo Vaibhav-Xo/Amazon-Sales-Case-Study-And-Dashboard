@@ -33,5 +33,5 @@ The dataset consist sales record for three cities of Myanmar which are Naypyitaw
 * Determining day of the week with highest customer rating for each branch?
   <p>And many more....</p>
    
-#### Note: For detailed analysis refer the .pptx or .sql
+### For more such intresting projects do check out my other repositeries....keep learning...keep growing...piece✌️
 
