@@ -1,6 +1,7 @@
 # Amazon-Sales-Data-Case-Study-Using-SQL
 ![Screenshot 2024-06-20 101740](https://github.com/Vaibhav-Xo/Amazon-Sales-Data-Case-Study/assets/172389348/2fea42b0-0c81-4b48-a209-87134b86b6f7)
 
+#### Note: Check out the .pdf to get clear view of the project ☺️
 ## Objective Of The Project
 The main aim of the project is to dive into the Amazon Sales Data and draw insights from it and analayze which factors affect the sales of different cities and their corrosponding branches using SQL. The project aims to uncover insights into sales trends, customer behavior, and product performance. By leveraging the power of SQL queries, we extract meaningful statistics and patterns from complex datasets.
 
