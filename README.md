@@ -1,4 +1,4 @@
-# Amazon-Sales-Data-Case-Study-Using-SQL
+# Amazon-Sales-Data-Case-Study-Using-SQL-And-Dashboard
 ![Screenshot 2024-06-20 101740](https://github.com/Vaibhav-Xo/Amazon-Sales-Data-Case-Study/assets/172389348/2fea42b0-0c81-4b48-a209-87134b86b6f7)
 
 #### Note: Check out the .pdf and .pbix files to get clear view of the project ☺️
